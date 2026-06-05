@@ -29,3 +29,6 @@ The project successfully:
 Generated and analyzed synthetic customer data. Performed data cleaning and preprocessing. Conducted Exploratory Data Analysis (EDA). Identified key churn indicators. Created meaningful visualizations. Derived actionable business insights. The analysis indicates that customers with low credit scores, high balances, and inactive status are more likely to churn. These findings can help organizations develop targeted retention strategies and improve customer satisfaction.
 
 🚀 Future Scope Implement predictive machine learning models. Develop customer retention recommendation systems. Create interactive dashboards using Power BI or Tableau. Build real-time churn prediction applications. Deploy the system using Flask, Django, or Streamlit. Integrate with customer relationship management (CRM) platforms. Author Abdul ajees.A BCA (Artificial Intelligence & Machine Learning) Python | Data Analytics | Machine Learning | UI/UX | Web Development
+
+
+<img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/a07b77af-62d0-47c0-abaa-02f7b9d7ed92" />
